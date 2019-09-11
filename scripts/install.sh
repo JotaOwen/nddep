@@ -2,7 +2,7 @@
 set -e
 
 # update instance
-apt-get update
+#apt-get update
 
 # install nodejs
 apt-get install nodejs
